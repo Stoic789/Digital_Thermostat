@@ -4,7 +4,7 @@ The Digital Thermostat System is a simple simulation of a thermostat that uses P
 
 ## Table of Contents
 
-1\. [Introduction](##introduction)
+1\. [Introduction](#introduction)
 
 2\. [Requirements](#requirements)
 
